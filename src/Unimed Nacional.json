@@ -1,0 +1,592 @@
+[
+    {
+        "Codigo": "1",
+        "Rede": "Rede Basica - PJ",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "2",
+        "Rede": "Rede Especial - PJ",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "3",
+        "Rede": "Rede Master - PJ",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "4",
+        "Rede": "Rede I - 067 - PF",
+        "Abrangencia": "Grupo de Municípios - SP"
+    },
+    {
+        "Codigo": "5",
+        "Rede": "Rede II - 067 - PF",
+        "Abrangencia": "Grupo de Municípios - SP"
+    },
+    {
+        "Codigo": "6",
+        "Rede": "Rede III - 067 - PF",
+        "Abrangencia": "Grupo de Municípios - SP"
+    },
+    {
+        "Codigo": "7",
+        "Rede": "Rede Especial Delta",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "11",
+        "Rede": "Rede Vida - 067 - PF",
+        "Abrangencia": "Grupo de Municípios - SP"
+    },
+    {
+        "Codigo": "14",
+        "Rede": "Rede Basica Ultragaz",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "41",
+        "Rede": "Rede Especial II - PJ",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "42",
+        "Rede": "Rede Master II",
+        "Abrangencia": "Grupo de Municipios - SP"
+    },
+    {
+        "Codigo": "55",
+        "Rede": "Rede Produto Ambulatorial",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "56",
+        "Rede": "Rede Master Ouro",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "78",
+        "Rede": "Rede Especial III",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "87",
+        "Rede": "Rede Especial Infraero",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "98",
+        "Rede": "Rede Especial Ouro",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "103",
+        "Rede": "Rede Basica CO - RD",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "104",
+        "Rede": "Rede Master CO - RD",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "200",
+        "Rede": "Rede Classico",
+        "Abrangencia": "Grupo de Municípios"
+    },
+    {
+        "Codigo": "201",
+        "Rede": "Rede Estilo",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "202",
+        "Rede": "Rede Absoluto",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "203",
+        "Rede": "Rede Superior",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "204",
+        "Rede": "Rede Exclusivo",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "210",
+        "Rede": "Rede Estilo ADM e Qualicorp",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "211",
+        "Rede": "Rede Absoluto ADM e Qualicorp",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "212",
+        "Rede": "Rede Superior ADM e Qualicorp",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "217",
+        "Rede": "Rede Estilo Feira - SAJ",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "218",
+        "Rede": "Rede Exclusivo Mais",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "219",
+        "Rede": "Rede NA04 BÁSICA 1",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "225",
+        "Rede": "Rede NA04 BÁSICA 7",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "226",
+        "Rede": "Rede NA08 MASTER 8",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "227",
+        "Rede": "Rede NA07 ESPECIAL 9",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "233",
+        "Rede": "Rede NA07 ESPECIAL 15",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "234",
+        "Rede": "Rede NA05 BÁSICA 16",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "235",
+        "Rede": "Rede NA04 BÁSICA 17",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "237",
+        "Rede": "Rede NA08 MASTER 19 - PJ",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "242",
+        "Rede": "Rede NA08 MASTER 24",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "243",
+        "Rede": "Rede NA04 BÁSICA 25",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "244",
+        "Rede": "Rede NA05 BÁSICA 26",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "245",
+        "Rede": "Rede NA07 ESPECIAL 27",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "246",
+        "Rede": "Rede NA07 ESPECIAL 28",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "247",
+        "Rede": "Rede NA07 ESPECIAL 29",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "248",
+        "Rede": "Rede NA04 BÁSICA 30",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "249",
+        "Rede": "Rede NA04 BÁSICA 31",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "250",
+        "Rede": "Rede NA04 BÁSICA 32",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "251",
+        "Rede": "Rede NA07 ESPECIAL 33",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "257",
+        "Rede": "Rede NA08 MASTER 39",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "271",
+        "Rede": "Rede NA08 MASTER 53",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "272",
+        "Rede": "Rede NA04 BÁSICA 54",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "273",
+        "Rede": "Rede NA04 BÁSICA 55",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "274",
+        "Rede": "Rede NA07 ESPECIAL 56",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "286",
+        "Rede": "Rede NA Básica FS 12",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "287",
+        "Rede": "Rede NA Básica FS 13",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "288",
+        "Rede": "Rede NA Básica FS 14",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "289",
+        "Rede": "Rede NA Básica FS 15",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "295",
+        "Rede": "Rede NA Básica FS 21",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "296",
+        "Rede": "Rede NA Básica FS 22",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "297",
+        "Rede": "Rede NA Básica FS 23",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "298",
+        "Rede": "Rede NA Básica FS 24",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "300",
+        "Rede": "Rede NA Básica FS 26",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "301",
+        "Rede": "Rede NA Básica FS 27",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "302",
+        "Rede": "Rede NA Básica FS 28",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "303",
+        "Rede": "Rede NA Básica FS 29",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "304",
+        "Rede": "Rede NA Básica FS 30",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "305",
+        "Rede": "Rede NA Básica FS 31",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "306",
+        "Rede": "Rede NA Básica FS 32",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "307",
+        "Rede": "Rede NA Básica FS 33",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "308",
+        "Rede": "Rede NA Básica FS 34",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "309",
+        "Rede": "Rede NA Básica FS 35",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "310",
+        "Rede": "Rede NA Básica FS 36",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "311",
+        "Rede": "Rede NA Básica FS 37",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "312",
+        "Rede": "Rede NA Básica FS 38",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "335",
+        "Rede": "Rede NA Básica FS 61",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "340",
+        "Rede": "Rede NA Básica FS 66",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "349",
+        "Rede": "Rede NA Básica FS 75",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "351",
+        "Rede": "Rede NA Básica FS 77",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "352",
+        "Rede": "Rede NA Básica FS 78",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "353",
+        "Rede": "Rede NA Básica FS 79",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "358",
+        "Rede": "Rede NA Básica FS 84",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "359",
+        "Rede": "Rede NA Básica FS 85",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "361",
+        "Rede": "Rede NA Básica FS 87",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "365",
+        "Rede": "Rede NA Básica FS 91",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "366",
+        "Rede": "Rede NA Básica FS 92",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "367",
+        "Rede": "Rede NA Básica FS 93",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "368",
+        "Rede": "Rede NA Básica FS 94",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "370",
+        "Rede": "Rede NA Básica FS 96",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "371",
+        "Rede": "Rede NA Básica FS 97",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "372",
+        "Rede": "Rede NA Básica FS 98",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "375",
+        "Rede": "Rede NA Básica FS 101",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "379",
+        "Rede": "Rede NA Básica FS 105",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "380",
+        "Rede": "Rede NA Básica FS 106",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "382",
+        "Rede": "Rede NA Básica FS 108",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "383",
+        "Rede": "Rede NA Básica FS 109",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "385",
+        "Rede": "Rede NA Básica FS 111",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "392",
+        "Rede": "Rede NA Básica FS 118",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "395",
+        "Rede": "Rede NA Básica FS 121",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "397",
+        "Rede": "Rede NA Básica FS 123",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "399",
+        "Rede": "Rede NA Básica FS 125",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "400",
+        "Rede": "Rede NA Básica FS 126",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "401",
+        "Rede": "Rede NA Básica FS 127",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "402",
+        "Rede": "Rede NA Básica FS 128",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "410",
+        "Rede": "Rede NA Básica FS 136",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "411",
+        "Rede": "Rede NA Básica FS 137",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "428",
+        "Rede": "Rede NA Básica FS 154",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "429",
+        "Rede": "Rede NA Básica FS 155",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "432",
+        "Rede": "Rede NA Básica Ilhéus 3",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "433",
+        "Rede": "Rede NA Básica Ilhéus 4",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "439",
+        "Rede": "Rede NA Master Ilhéus 1",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "440",
+        "Rede": "Rede NA Básica Ilhéus 10",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "456",
+        "Rede": "Rede NA Básica Ilhéus 26",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "457",
+        "Rede": "Rede NA Básica Ilhéus 27",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "458",
+        "Rede": "Rede NA Básica Ilhéus 28",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "459",
+        "Rede": "Rede NA Básica Ilhéus 29",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "462",
+        "Rede": "Rede NA Básica Ilhéus 30",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "467",
+        "Rede": "Rede NA Básica IT 3",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "468",
+        "Rede": "Rede NA Básica IT 4",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "471",
+        "Rede": "Rede NA Básica IT 7",
+        "Abrangencia": "Nacional"
+    },
+    {
+        "Codigo": "473",
+        "Rede": "Rede NA Básica IT 9",
+        "Abrangencia": "Nacional"
+    }
+]

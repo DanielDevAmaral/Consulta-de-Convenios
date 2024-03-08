@@ -1,0 +1,142 @@
+[
+    {
+        "Produto": "Básico",
+        "Classificacao": "Coletivo empresarial",
+        "Abrangencia": " Nacional",
+        "acomodacao": "Coletivo ",
+        "Registro": "480029180"
+    },
+    {
+        "Produto": "Básico Plus",
+        "Classificacao": "Coletivo empresarial",
+        "Abrangencia": " Nacional",
+        "acomodacao": "Coletivo ",
+        "Registro": "480023181"
+    },
+    {
+        "Produto": "Bronze L11",
+        "Classificacao": "Coletivo empresarial",
+        "Abrangencia": "Grupo de estados ",
+        "acomodacao": "Coletivo ",
+        "Registro": "475763167"
+    },
+    {
+        "Produto": "Clássico ",
+        "Classificacao": "Coletivo empresarial",
+        "Abrangencia": " Nacional",
+        "acomodacao": "Individual ",
+        "Registro": "480030183"
+    },
+    {
+        "Produto": "Clássico Plus",
+        "Classificacao": "Coletivo empresarial",
+        "Abrangencia": " Nacional",
+        "acomodacao": "Individual ",
+        "Registro": "480028181"
+    },
+    {
+        "Produto": "Diamante L40",
+        "Classificacao": "Coletivo empresarial",
+        "Abrangencia": "Grupo de estados ",
+        "acomodacao": "Individual ",
+        "Registro": "475762169"
+    },
+    {
+        "Produto": "Especial Nacional",
+        "Classificacao": "Coletivo por adesão",
+        "Abrangencia": " Nacional",
+        "acomodacao": "Coletivo ",
+        "Registro": "482236196"
+    },
+    {
+        "Produto": "Exclusivo +",
+        "Classificacao": "Coletivo empresarial",
+        "Abrangencia": " Nacional",
+        "acomodacao": "Individual ",
+        "Registro": "480322181"
+    },
+    {
+        "Produto": "Executivo",
+        "Classificacao": "Coletivo por adesão",
+        "Abrangencia": " Nacional",
+        "acomodacao": "Individual ",
+        "Registro": "480020186"
+    },
+    {
+        "Produto": "Executivo Prime",
+        "Classificacao": "Coletivo por adesão",
+        "Abrangencia": " Nacional",
+        "acomodacao": "Individual ",
+        "Registro": "480021184"
+    },
+    {
+        "Produto": "Life 150",
+        "Classificacao": "Coletivo empresarial",
+        "Abrangencia": " Nacional",
+        "acomodacao": "Individual ",
+        "Registro": "461036099"
+    },
+    {
+        "Produto": "Ouro L30",
+        "Classificacao": "Coletivo empresarial",
+        "Abrangencia": "Grupo de estados ",
+        "acomodacao": "Individual ",
+        "Registro": "475761161"
+    },
+    {
+        "Produto": "Pleno",
+        "Classificacao": "Coletivo por adesão",
+        "Abrangencia": " Nacional",
+        "acomodacao": "Individual ",
+        "Registro": "480018184"
+    },
+    {
+        "Produto": "Pleno Master",
+        "Classificacao": "Coletivo por adesão",
+        "Abrangencia": " Nacional",
+        "acomodacao": "Individual ",
+        "Registro": "480019182"
+    },
+    {
+        "Produto": "Prata L21",
+        "Classificacao": "Coletivo empresarial",
+        "Abrangencia": "Grupo de estados ",
+        "acomodacao": "Individual ",
+        "Registro": "475766161"
+    },
+    {
+        "Produto": "Premium +",
+        "Classificacao": "Coletivo empresarial",
+        "Abrangencia": " Nacional",
+        "acomodacao": "Individual ",
+        "Registro": "480323180"
+    },
+    {
+        "Produto": "Premium Pós",
+        "Classificacao": "Coletivo empresarial",
+        "Abrangencia": " Nacional",
+        "acomodacao": "Individual ",
+        "Registro": "480017186"
+    },
+    {
+        "Produto": "Superior",
+        "Classificacao": "Coletivo empresarial",
+        "Abrangencia": " Nacional",
+        "acomodacao": "Individual ",
+        "Registro": "480024189"
+    },
+    {
+        "Produto": "Superior Plus",
+        "Classificacao": "Coletivo empresarial",
+        "Abrangencia": " Nacional",
+        "acomodacao": "Individual ",
+        "Registro": "480027183"
+    },
+    {
+        "Produto": "Único Pós",
+        "Classificacao": "Coletivo por adesão",
+        "Abrangencia": " Nacional",
+        "acomodacao": "Individual ",
+        "Registro": "480022182"
+    }
+]

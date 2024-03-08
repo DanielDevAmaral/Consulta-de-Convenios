@@ -1,0 +1,55 @@
+/* Target the root element for overall styling */
+* {
+  font-family: "roboto";
+}
+
+.json-data-display {
+  background-color: #f8ae2d; /* Set the primary color */
+  color: #fff; /* Ensure text is readable */
+  padding: 20px; /* Add some padding for visual appeal */
+}
+
+/* Style the input field */
+input[type="text"] {
+  background-color: #d9d9d9; /* Use a contrasting color for input field */
+  border: 1px solid #011A77; /* Add a subtle border */
+
+  border-radius: 16px;
+  margin: 30px;
+
+  padding: 6px 20px 6px 56px;
+
+  text-align: left; /* Ensure text is aligned to the left within the input field */
+  margin-left: auto; /* Move the input field to the left edge of its container */
+  margin-right: auto; /* Center the input field horizontally if it's wider than its container */
+}
+input::placeholder {
+  text-align: left;
+  font-style: italic;
+}
+
+/* Style the table header and body */
+.table-striped {
+  border-collapse: collapse; /* Ensure proper table rendering */
+  margin: 0 auto;
+  width: 90%;
+}
+
+th,
+td {
+  padding: 10px; /* Add padding to table cells */
+  border-bottom: 1px solid rgb(1, 26, 119, 0.5);
+}
+
+tbody tr:nth-child(even) {
+  background: #d9d9d9;
+}
+
+.nivel,
+.prod, .acom {
+  text-align: center;
+}
+
+.search {
+  display: grid;
+}

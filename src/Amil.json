@@ -1,0 +1,2186 @@
+[
+    {
+        "Código": "1",
+        "Rede": "OPCOES (NACIONAL) ",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "2",
+        "Rede": "MEDICUS (NACIONAL)",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "2",
+        "Rede": "MEDICUS (NACIONAL)",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "3",
+        "Rede": "QUALITY (NACIONAL)",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "4",
+        "Rede": "DOCTOR (NACIONAL)",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "15",
+        "Rede": "CONTINENTS (NACIONAL/INTERNAC)",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "18",
+        "Rede": "OPCAO 11 (NACIONAL)",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "20",
+        "Rede": "OPCAO PLUS (NACIONAL)",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "20",
+        "Rede": "OPCAO PLUS (NACIONAL)",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "22",
+        "Rede": "CONTINENTS (NACIONAL/INTERNAC) IND",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "23",
+        "Rede": "OPCAO 11 (NACIONAL) IND",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "28",
+        "Rede": "AMIL 30 NACIONAL IND",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "29",
+        "Rede": "AMIL 60 NACIONAL IND",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "39",
+        "Rede": "OPCAO PLUS - ADM (NACIONAL)",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "40",
+        "Rede": "QUALITY - ADM (NACIONAL)",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "43",
+        "Rede": "AMIL 20 (NACIONAL)",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "43",
+        "Rede": "AMIL 20 (NACIONAL)",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "45",
+        "Rede": "AMIL 40 NACIONAL PF",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "46",
+        "Rede": "AMIL 50 NACIONAL",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "46",
+        "Rede": "AMIL 50 NACIONAL",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "47",
+        "Rede": "AMIL 60 NACIONAL",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "47",
+        "Rede": "AMIL 60 NACIONAL",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "48",
+        "Rede": "AMIL 10 NACIONAL",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "48",
+        "Rede": "AMIL 10 NACIONAL",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "49",
+        "Rede": "AMIL 20 NACIONAL",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "49",
+        "Rede": "AMIL 20 NACIONAL",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "50",
+        "Rede": "AMIL 30 NACIONAL",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "50",
+        "Rede": "AMIL 30 NACIONAL",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "51",
+        "Rede": "AMIL 40 NACIONAL PJ",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "51",
+        "Rede": "AMIL 40 NACIONAL PJ",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "61",
+        "Rede": "MEDICUS M.A NACIONAL",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "62",
+        "Rede": "AMIL 20 GR BAYER NACIONAL",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "62",
+        "Rede": "AMIL 20 GR BAYER NACIONAL",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "63",
+        "Rede": "AMIL 50 GR BAYER NACIONAL",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "63",
+        "Rede": "AMIL 50 GR BAYER NACIONAL",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "65",
+        "Rede": "AMIL 40 PLUS – NACIONAL",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "65",
+        "Rede": "AMIL 40 PLUS – NACIONAL",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "66",
+        "Rede": "AMIL 40 PLUS NACIONAL",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "70",
+        "Rede": "AMIL BAYER",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "70",
+        "Rede": "AMIL BAYER",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "71",
+        "Rede": "AMIL 30 ESPECIAL NACIONAL",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "71",
+        "Rede": "AMIL 30 ESPECIAL NACIONAL",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "72",
+        "Rede": "AMIL 30 ESPECIAL NACIONAL",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "91",
+        "Rede": "AMIL BASICO I",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "92",
+        "Rede": "AMIL ESPECIAL I",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "93",
+        "Rede": "AMIL ESPECIAL II",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "94",
+        "Rede": "AMIL SUPERIOR I",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "95",
+        "Rede": "AMIL SUPERIOR II",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "96",
+        "Rede": "AMIL PLENO I",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "97",
+        "Rede": "AMIL PLENO II",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "98",
+        "Rede": "AMIL SENIOR I",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "99",
+        "Rede": "AMIL SENIOR II",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "100",
+        "Rede": "AMIL MASTER I",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "101",
+        "Rede": "AMIL MASTER II",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "102",
+        "Rede": "AMIL MASTER III",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "103",
+        "Rede": "AMIL GLOBAL JR",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "104",
+        "Rede": "AMIL GLOBAL I",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "105",
+        "Rede": "AMIL GLOBAL II",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "106",
+        "Rede": "AMIL GLOBAL MAX",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "107",
+        "Rede": "AMIL GLOBAL TOP",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "108",
+        "Rede": "AMIL PLENO",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "109",
+        "Rede": "AMIL SENIOR",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "110",
+        "Rede": "AMIL MASTER IV",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "112",
+        "Rede": "AMIL BASICO",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "113",
+        "Rede": "AMIL ESPECIAL",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "114",
+        "Rede": "AMIL STANDARD",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "115",
+        "Rede": "AMIL LIVRE ESCOLHA",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "120",
+        "Rede": "AMIL 30 BAYER NACIONAL",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "120",
+        "Rede": "AMIL 30 BAYER NACIONAL",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "123",
+        "Rede": "ADVANCED ESPECIAL",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "124",
+        "Rede": "ADVANCED EXECUTIVO",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "125",
+        "Rede": "BLUE LIFE ESPECIAL",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "126",
+        "Rede": "BLUE LIFE EXECUTIVO",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "127",
+        "Rede": "CELEBRITY",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "130",
+        "Rede": "CONSULT ESPECIAL",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "131",
+        "Rede": "CONSULT EXECUTIVO",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "132",
+        "Rede": "GOLD",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "133",
+        "Rede": "PLATINUM",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "134",
+        "Rede": "SENIOR",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "135",
+        "Rede": "VIP",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "140",
+        "Rede": "AMIL 160 NACIONAL",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "140",
+        "Rede": "AMIL 160 NACIONAL",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "141",
+        "Rede": "AMIL 140 PLUS NACIONAL",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "142",
+        "Rede": "AMIL BLUE GOLD NACIONAL",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "143",
+        "Rede": "AMIL 130 NACIONAL",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "144",
+        "Rede": "AMIL BLUE II NACIONAL",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "144",
+        "Rede": "AMIL BLUE II NACIONAL",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "145",
+        "Rede": "AMIL 120 NACIONAL",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "145",
+        "Rede": "AMIL 120 NACIONAL",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "146",
+        "Rede": "AMIL BLUE I NACIONAL",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "146",
+        "Rede": "AMIL BLUE I NACIONAL",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "157",
+        "Rede": "AMIL 150 NACIONAL",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "157",
+        "Rede": "AMIL 150 NACIONAL",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "160",
+        "Rede": "AMIL 10 NACIONAL IND",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "161",
+        "Rede": "AMIL 30 NACIONAL IND.",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "167",
+        "Rede": "ADVANCED INTERMEDICI",
+        "Nivel": "Nível 200",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "168",
+        "Rede": "PLATINUM INTERMEDICI",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "169",
+        "Rede": "CONSULT INTERMEDICI EXEC  ",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "170",
+        "Rede": "CONSULT INTERMEDICI ESP",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "171",
+        "Rede": "AMIL 35 LIGHT",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "267",
+        "Rede": "BLUE LIFE ESPECIAL IND",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "268",
+        "Rede": "CELEBRITY IND",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "269",
+        "Rede": "CONSULT ESPECIAL IND",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "270",
+        "Rede": "CONSULT EXECUTIVO IND",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "271",
+        "Rede": "GOLD IND",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "272",
+        "Rede": "PLATINUM IND",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "273",
+        "Rede": "VIP IND",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "274",
+        "Rede": "AMIL 140 PLUS NACIONAL IND",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "282",
+        "Rede": "CELEBRITY INTERMEDICI IND",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "283",
+        "Rede": "ADVANCED INTERMEDICI IND",
+        "Nivel": "Nível 200",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "284",
+        "Rede": "PLATINUM INTERMEDICI IND",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "285",
+        "Rede": "CONSULT INTERMEDICI EXEC IND",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "286",
+        "Rede": "CONSULT INTERMEDICI ESP IND",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "312",
+        "Rede": "AMIL 140 NACIONAL",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "312",
+        "Rede": "AMIL 140 NACIONAL",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "313",
+        "Rede": "AMIL 110 NACIONAL",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "419",
+        "Rede": "AMIL BLUE III",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "419",
+        "Rede": "AMIL BLUE III",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "420",
+        "Rede": "AMIL BLUE IV",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "420",
+        "Rede": "AMIL BLUE IV",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "447",
+        "Rede": "ONE HEALTH - REDE ONE T1",
+        "Nivel": "Nível 900",
+        "Produto": "ONEHEALTH"
+    },
+    {
+        "Código": "447",
+        "Rede": "ONE HEALTH - REDE ONE T1",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "448",
+        "Rede": "ONE HEALTH - REDE ONE BLACK T2",
+        "Nivel": "Nível 900",
+        "Produto": "ONEHEALTH"
+    },
+    {
+        "Código": "448",
+        "Rede": "ONE HEALTH - REDE ONE BLACK T2",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "454",
+        "Rede": "AMIL 120 XEROX NACIONAL",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "455",
+        "Rede": "AMIL 140 XEROX NACIONAL",
+        "Nivel": "Nível 700",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "456",
+        "Rede": "AMIL 150 XEROX NACIONAL",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "458",
+        "Rede": "MEDIAL CLASS 20",
+        "Nivel": "Nível 300",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "459",
+        "Rede": "MEDIAL CLASS 30",
+        "Nivel": "Nível 300",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "460",
+        "Rede": "MEDIAL CLASS 40",
+        "Nivel": "Nível 400",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "461",
+        "Rede": "MEDIAL CLASS 44",
+        "Nivel": "Nível 400",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "462",
+        "Rede": "MEDIAL CLASS 45",
+        "Nivel": "Nível 400",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "463",
+        "Rede": "MEDIAL CLASS 49",
+        "Nivel": "Nível 500",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "464",
+        "Rede": "MEDIAL CLASS 50",
+        "Nivel": "Nível 500",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "465",
+        "Rede": "MEDIAL CLASS 52",
+        "Nivel": "Nível 500",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "466",
+        "Rede": "MEDIAL CLASS 60",
+        "Nivel": "Nível 600 ",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "467",
+        "Rede": "MEDIAL CLASS 80",
+        "Nivel": "Nível 800",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "473",
+        "Rede": "MEDIAL CLASSICOS 60",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "476",
+        "Rede": "MEDIAL ESSENCIAL 20",
+        "Nivel": "Nível 300",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "477",
+        "Rede": "MEDIAL ESSENCIAL 30",
+        "Nivel": "Nível 300",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "478",
+        "Rede": "MEDIAL ESSENCIAL 40",
+        "Nivel": "Nível 300",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "488",
+        "Rede": "MEDIAL GLOBAL 20",
+        "Nivel": "Nível 300",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "489",
+        "Rede": "MEDIAL GLOBAL 30",
+        "Nivel": "Nível 400",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "490",
+        "Rede": "MEDIAL GLOBAL 40",
+        "Nivel": "Nível 400",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "491",
+        "Rede": "MEDIAL GLOBAL 50",
+        "Nivel": "Nível 500",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "492",
+        "Rede": "MEDIAL GLOBAL 60",
+        "Nivel": "Nível 600 ",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "493",
+        "Rede": "MEDIAL GLOBAL 80",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "497",
+        "Rede": "MEDIAL MARTINS 35",
+        "Nivel": "Nível 300",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "505",
+        "Rede": "MEDIAL PROT/CONF 45",
+        "Nivel": "Nível 400",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "506",
+        "Rede": "MEDIAL PROT/CONF 49",
+        "Nivel": "Nível 500",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "507",
+        "Rede": "MEDIAL PROT/CONF 50",
+        "Nivel": "Nível 500",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "508",
+        "Rede": "MEDIAL PROT/CONF 55",
+        "Nivel": "Nível 600 ",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "509",
+        "Rede": "MEDIAL PROT/CONF 60",
+        "Nivel": "Nível 600 ",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "510",
+        "Rede": "MEDIAL PROT/CONF 80",
+        "Nivel": "Nível 800",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "512",
+        "Rede": "MEDIAL STD BASICO10",
+        "Nivel": "Nível 300",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "513",
+        "Rede": "MEDIAL GOODYEAR 30",
+        "Nivel": "Nível 300",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "515",
+        "Rede": "MEDIAL GOODYEAR 44",
+        "Nivel": "Nível 400",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "516",
+        "Rede": "MEDIAL GOODYEAR 45",
+        "Nivel": "Nível 500",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "517",
+        "Rede": "MEDIAL GOODYEAR 49",
+        "Nivel": "Nível 500",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "518",
+        "Rede": "MEDIAL GOODYEAR 50",
+        "Nivel": "Nível 500",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "527",
+        "Rede": "MEDIAL TNL QUALITY",
+        "Nivel": "Nível 300",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "533",
+        "Rede": "ONE HEALTH - REDE ONE BLACK T5",
+        "Nivel": "Nível 900",
+        "Produto": "ONEHEALTH"
+    },
+    {
+        "Código": "534",
+        "Rede": "AMIL COLABORADOR NACIONAL",
+        "Nivel": "Nível 100",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "543",
+        "Rede": "AMIL 20 CPRM NACIONAL-",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "544",
+        "Rede": "AMIL 120 REXAM NACIONAL",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "545",
+        "Rede": "ONE HEALTH - REDE ONE BLACK T3",
+        "Nivel": "Nível 900",
+        "Produto": "ONEHEALTH"
+    },
+    {
+        "Código": "545",
+        "Rede": "ONE HEALTH - REDE ONE BLACK T3",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "546",
+        "Rede": "ONE HEALTH - REDE ONE BLACK T4",
+        "Nivel": "Nível 900",
+        "Produto": "ONEHEALTH"
+    },
+    {
+        "Código": "546",
+        "Rede": "ONE HEALTH - REDE ONE BLACK T4",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "549",
+        "Rede": "ONE HEALTH - REDE ONE BLACK T2 IND",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "555",
+        "Rede": "AMIL BLUE I DHL NACIONAL",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "563",
+        "Rede": "MEDIAL GOL QP",
+        "Nivel": "Nível 300",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "564",
+        "Rede": "MEDIAL GOL QP",
+        "Nivel": "Nível 300",
+        "Produto": "MEDIAL"
+    },
+    {
+        "Código": "566",
+        "Rede": "REDE 800 NACIONAL MEDIAL",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "567",
+        "Rede": "REDE 700 NACIONAL MEDIAL",
+        "Nivel": "Nível 700",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "567",
+        "Rede": "REDE 700 NACIONAL MEDIAL",
+        "Nivel": "Nível 700",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "568",
+        "Rede": "REDE 600 NACIONAL MEDIAL",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "568",
+        "Rede": "REDE 600 NACIONAL MEDIAL",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "569",
+        "Rede": "REDE 500 NACIONAL MEDIAL",
+        "Nivel": "Nível 500 ",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "569",
+        "Rede": "REDE 500 NACIONAL MEDIAL",
+        "Nivel": "Nível 500 ",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "570",
+        "Rede": "REDE 400 NACIONAL MEDIAL",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "570",
+        "Rede": "REDE 400 NACIONAL MEDIAL",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "590",
+        "Rede": "REDE 800 NACIONAL BLUE",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "590",
+        "Rede": "REDE 800 NACIONAL BLUE",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "591",
+        "Rede": "REDE 700 NACIONAL BLUE",
+        "Nivel": "Nível 700",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "591",
+        "Rede": "REDE 700 NACIONAL BLUE",
+        "Nivel": "Nível 700",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "592",
+        "Rede": "REDE 600 NACIONAL BLUE",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "592",
+        "Rede": "REDE 600 NACIONAL BLUE",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "593",
+        "Rede": "REDE 500 NACIONAL BLUE",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "593",
+        "Rede": "REDE 500 NACIONAL BLUE",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "594",
+        "Rede": "REDE 400 NACIONAL BLUE",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "594",
+        "Rede": "REDE 400 NACIONAL BLUE",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "595",
+        "Rede": "REDE 300 REGIONAL S.PAULO BLUE",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "595",
+        "Rede": "REDE 300 REGIONAL S.PAULO BLUE",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "607",
+        "Rede": "MEDIAL CLASS 20 IND",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "609",
+        "Rede": "MEDIAL CLASS 30 IND",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "611",
+        "Rede": "MEDIAL CLASS 44 IND",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "613",
+        "Rede": "MEDIAL CLASS 52 IND",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "614",
+        "Rede": "MEDIAL CLASS 80 IND",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "623",
+        "Rede": "MEDICUS RN",
+        "Nivel": "Nível 400",
+        "Produto": "ASL"
+    },
+    {
+        "Código": "628",
+        "Rede": "REDE 200 NACIONAL BLUE",
+        "Nivel": "Nível 200",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "628",
+        "Rede": "REDE 200 NACIONAL BLUE",
+        "Nivel": "Nível 200",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "629",
+        "Rede": "REDE 300 NACIONAL BLUE",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "629",
+        "Rede": "REDE 300 NACIONAL BLUE",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "630",
+        "Rede": "REDE STANDARD II NAC MEDIAL",
+        "Nivel": "Nível 200",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "631",
+        "Rede": "REDE STANDARD III NAC MEDIAL",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "632",
+        "Rede": "REDE INTER I NAC MEDIAL",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "633",
+        "Rede": "REDE INTER II NAC MEDIAL",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "634",
+        "Rede": "REDE SUPER I NAC MEDIAL",
+        "Nivel": "Nível 700",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "638",
+        "Rede": "AZUL",
+        "Nivel": "Nível 500",
+        "Produto": "LINCX"
+    },
+    {
+        "Código": "639",
+        "Rede": "AZUL 50",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "640",
+        "Rede": "BRANCO",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "641",
+        "Rede": "BRANCO 50",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "642",
+        "Rede": "VERDE 60  ",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "643",
+        "Rede": "VERDE 50",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "645",
+        "Rede": "H0+L1",
+        "Nivel": "Nível 500",
+        "Produto": "LINCX"
+    },
+    {
+        "Código": "646",
+        "Rede": "H0+L2",
+        "Nivel": "Nível 500",
+        "Produto": "LINCX"
+    },
+    {
+        "Código": "649",
+        "Rede": "H1+L1",
+        "Nivel": "Nível 500",
+        "Produto": "LINCX"
+    },
+    {
+        "Código": "650",
+        "Rede": "H1+L2",
+        "Nivel": "Nível 500",
+        "Produto": "LINCX"
+    },
+    {
+        "Código": "655",
+        "Rede": "H2+L2",
+        "Nivel": "Nível 600 ",
+        "Produto": "LINCX"
+    },
+    {
+        "Código": "658",
+        "Rede": "H3+L2",
+        "Nivel": "Nível 700",
+        "Produto": "LINCX"
+    },
+    {
+        "Código": "659",
+        "Rede": "H3+L3",
+        "Nivel": "Nível 700",
+        "Produto": "LINCX"
+    },
+    {
+        "Código": "660",
+        "Rede": "H4",
+        "Nivel": "Nível 800",
+        "Produto": "LINCX"
+    },
+    {
+        "Código": "662",
+        "Rede": "H4+L3",
+        "Nivel": "Nível 800",
+        "Produto": "LINCX"
+    },
+    {
+        "Código": "663",
+        "Rede": "BRANCO 60",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "664",
+        "Rede": "VERDE ",
+        "Nivel": "Nível 800",
+        "Produto": "LINCX"
+    },
+    {
+        "Código": "665",
+        "Rede": "AZUL 60",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "691",
+        "Rede": "REDE 200 REGIONAL RM PERNAMBUCO BLUE",
+        "Nivel": "Nível 200",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "691",
+        "Rede": "REDE 200 REGIONAL RM PERNAMBUCO BLUE",
+        "Nivel": "Nível 200",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "694",
+        "Rede": "LINCX - LT3 NACIONAL",
+        "Nivel": "Nível 800",
+        "Produto": "ONEHEALTH"
+    },
+    {
+        "Código": "694",
+        "Rede": "LINCX - LT3 NACIONAL",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "695",
+        "Rede": "LINCX - LT4 NACIONAL",
+        "Nivel": "Nível 900",
+        "Produto": "ONEHEALTH"
+    },
+    {
+        "Código": "695",
+        "Rede": "LINCX - LT4 NACIONAL",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "696",
+        "Rede": "BLUE 600 PLUS NACIONAL",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "696",
+        "Rede": "BLUE 600 PLUS NACIONAL",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "697",
+        "Rede": "BLUE 500 PLUS NACIONAL",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "697",
+        "Rede": "BLUE 500 PLUS NACIONAL",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "698",
+        "Rede": "BLUE 400 PLUS NACIONAL",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "698",
+        "Rede": "BLUE 400 PLUS NACIONAL",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "699",
+        "Rede": "BLUE 300 PLUS NACIONAL",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "699",
+        "Rede": "BLUE 300 PLUS NACIONAL",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "700",
+        "Rede": "MEDIAL 300 NACIONAL",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "700",
+        "Rede": "MEDIAL 300 NACIONAL",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "701",
+        "Rede": "MEDIAL 200 GR. MUNICÍPIOS BRASIL",
+        "Nivel": "Nível 200",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "701",
+        "Rede": "MEDIAL 200 GR. MUNICÍPIOS BRASIL",
+        "Nivel": "Nível 200",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "707",
+        "Rede": "BLUE 200 PLUS GR. MUNICIPIOS BRASIL",
+        "Nivel": "Nível 200",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "707",
+        "Rede": "BLUE 200 PLUS GR. MUNICIPIOS BRASIL",
+        "Nivel": "Nível 200",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "723",
+        "Rede": "Amil 200 Gr. Municipios QC",
+        "Nivel": "Nível 200",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "723",
+        "Rede": "Amil 200 Gr. Municipios QC",
+        "Nivel": "Nível 200",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "724",
+        "Rede": "Amil 200 Gr. Municipios QP",
+        "Nivel": "Nível 200",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "724",
+        "Rede": "Amil 200 Gr. Municipios QP",
+        "Nivel": "Nível 200",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "726",
+        "Rede": "Amil 400 Nacional QC",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "726",
+        "Rede": "Amil 400 Nacional QC",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "727",
+        "Rede": "Amil 400 Nacional QP",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "727",
+        "Rede": "Amil 400 Nacional QP",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "728",
+        "Rede": " Amil 500 Nacional",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "728",
+        "Rede": " Amil 500 Nacional",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "730",
+        "Rede": "Amil 700 Nacional",
+        "Nivel": "Nível 700",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "730",
+        "Rede": "Amil 700 Nacional",
+        "Nivel": "Nível 700",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "731",
+        "Rede": "AMIL 900 NACIONAL",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "731",
+        "Rede": "AMIL 900 NACIONAL",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "737",
+        "Rede": "MEDIAL ESSENCIAL 20 IND",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "738",
+        "Rede": "MEDIAL ESSENCIAL 30 IND",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "739",
+        "Rede": "MEDIAL ESSENCIAL 40 IND",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "743",
+        "Rede": "MEDIAL GLOBAL 20 IND",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "744",
+        "Rede": "MEDIAL GLOBAL 30 IND",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "745",
+        "Rede": "MEDIAL GLOBAL 40 IND",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "746",
+        "Rede": "MEDIAL GLOBAL 50 IND",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "747",
+        "Rede": "MEDIAL GLOBAL 60 IND",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "748",
+        "Rede": "MEDIAL PROT/CONF 80 IND",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "749",
+        "Rede": "ONE HEALTH - REDE ONE BLACK T3 IND",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "750",
+        "Rede": "ONE HEALTH - REDE ONE BLACK T4 IND",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "753",
+        "Rede": "REDE 700 NACIONAL MEDIAL IND",
+        "Nivel": "Nível 700",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "766",
+        "Rede": "REDE 800 NACIONAL BLUE IND",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "767",
+        "Rede": "REDE 300 REGIONAL S.PAULO BLUE IND",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "847",
+        "Rede": "AMIL S 70",
+        "Nivel": "Nível 550",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "847",
+        "Rede": "AMIL S 70",
+        "Nivel": "Nível 550",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "858",
+        "Rede": "Amil IDG Plus QC",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "859",
+        "Rede": "Amil IDG Plus I QP",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "860",
+        "Rede": "Amil IDG Inter QP",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "861",
+        "Rede": "Amil IDG Inter I QP",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "868",
+        "Rede": "Amil One S1500 QP",
+        "Nivel": "Nível 1500",
+        "Produto": "ONEHEALTH"
+    },
+    {
+        "Código": "868",
+        "Rede": "Amil One S1500 QP",
+        "Nivel": "Nível 1500",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "869",
+        "Rede": "Amil 500 TRF",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "870",
+        "Rede": "Amil 700 TRF",
+        "Nivel": "Nível 700",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "878",
+        "Rede": "Amil S450 QC",
+        "Nivel": "Nível 450",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "878",
+        "Rede": "Amil S450 QC",
+        "Nivel": "Nível 450",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "879",
+        "Rede": "Amil S450 QP",
+        "Nivel": "Nível 450",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "879",
+        "Rede": "Amil S450 QP",
+        "Nivel": "Nível 450",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "880",
+        "Rede": "Amil S750 QP",
+        "Nivel": "Nível 750",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "880",
+        "Rede": "Amil S750 QP",
+        "Nivel": "Nível 750",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "881",
+        "Rede": "Amil One S2500 QP",
+        "Nivel": "Nível 2500",
+        "Produto": "ONEHEALTH"
+    },
+    {
+        "Código": "881",
+        "Rede": "Amil One S2500 QP",
+        "Nivel": "Nível 2500",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "882",
+        "Rede": "Amil One S6500 Black QP",
+        "Nivel": "Nível 6500",
+        "Produto": "ONEHEALTH"
+    },
+    {
+        "Código": "882",
+        "Rede": "Amil One S6500 Black QP",
+        "Nivel": "Nível 6500",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "885",
+        "Rede": "Amil Colaborador Enf",
+        "Nivel": "Nível 380",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "886",
+        "Rede": "Amil Blue III COLAB",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "887",
+        "Rede": "Amil S750 COLAB",
+        "Nivel": "Nível 750",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "888",
+        "Rede": "Amil One S2500 COLAB",
+        "Nivel": "Nível 2500",
+        "Produto": "ONEHEALTH"
+    },
+    {
+        "Código": "889",
+        "Rede": "Amil One S6500 Black COLAB",
+        "Nivel": "Nível 6500",
+        "Produto": "ONEHEALTH"
+    },
+    {
+        "Código": "900",
+        "Rede": "ADVANCED ESPECIAL IND",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "901",
+        "Rede": "ADVANCED EXECUTIVO IND",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "902",
+        "Rede": "AMIL 110 NACIONAL IND",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "903",
+        "Rede": "AMIL 120 NACIONAL IND",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "904",
+        "Rede": "AMIL 130 NACIONAL IND",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "905",
+        "Rede": "AMIL 140 NACIONAL IND",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "906",
+        "Rede": "AMIL 150 NACIONAL IND",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "907",
+        "Rede": "AMIL 160 NACIONAL IND",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "908",
+        "Rede": "AMIL 20 (NACIONAL) IND",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "909",
+        "Rede": "AMIL 50 NACIONAL IND",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "910",
+        "Rede": "AMIL BLUE GOLD NACIONAL IND",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "911",
+        "Rede": "AMIL BLUE I NACIONAL IND",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "912",
+        "Rede": "AMIL BLUE II NACIONAL IND",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "913",
+        "Rede": "AMIL BLUE III IND",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "914",
+        "Rede": "AMIL BLUE IV IND",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "915",
+        "Rede": "BLUE LIFE EXECUTIVO IND",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "919",
+        "Rede": "MEDIAL CLASS 40 IND",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "920",
+        "Rede": "MEDIAL CLASS 45 IND",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "921",
+        "Rede": "MEDIAL CLASS 50 IND",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "922",
+        "Rede": "MEDIAL CLASS 60 IND",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "925",
+        "Rede": "MEDIAL PROT/CONF 49 IND",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "926",
+        "Rede": "MEDIAL PROT/CONF 50 IND",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "927",
+        "Rede": "MEDIAL PROT/CONF 55 IND",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "928",
+        "Rede": "MEDIAL PROT/CONF 60 IND",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "929",
+        "Rede": "MEDICUS (NACIONAL) IND",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "930",
+        "Rede": "ONE HEALTH - REDE ONE T1 IND",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "931",
+        "Rede": "OPCAO PLUS (NACIONAL) IND",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "932",
+        "Rede": "OPCOES (NACIONAL) IND",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "933",
+        "Rede": "QUALITY (NACIONAL) IND",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "934",
+        "Rede": "REDE 400 NACIONAL BLUE IND",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "935",
+        "Rede": "REDE 400 NACIONAL MEDIAL IND",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "936",
+        "Rede": "REDE 500 NACIONAL BLUE IND",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "937",
+        "Rede": "REDE 500 NACIONAL MEDIAL IND",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "938",
+        "Rede": "REDE 600 NACIONAL BLUE IND",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "939",
+        "Rede": "REDE 600 NACIONAL MEDIAL IND",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "940",
+        "Rede": "REDE 700 NACIONAL BLUE IND",
+        "Nivel": "Nível 700",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "952",
+        "Rede": "REDE 300 NACIONAL BLUE IND",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "953",
+        "Rede": "AZUL IND",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "954",
+        "Rede": "VERDE IND",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "966",
+        "Rede": "REDE 200 REGIONAL RM PERNAMBUCO BLUE IND",
+        "Nivel": "Nível 200",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "968",
+        "Rede": "LINCX - LT3 NACIONAL IND",
+        "Nivel": "Nível 800",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "969",
+        "Rede": "LINCX - LT4 NACIONAL IND",
+        "Nivel": "Nível 900",
+        "Produto": "AMIL Ind"
+    },
+    {
+        "Código": "1000",
+        "Rede": "Amil S580 QP",
+        "Nivel": "Nível 580",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "1000",
+        "Rede": "Amil S580 QP",
+        "Nivel": "Nível 580",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "1005",
+        "Rede": "AMIL 130 NACIONAL AD",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "1006",
+        "Rede": "AMIL 140 NACIONAL AD",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "1007",
+        "Rede": "AMIL 30 NACIONAL AD",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "1008",
+        "Rede": "AMIL 40 NACIONAL PJ AD",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "1009",
+        "Rede": "Amil 400 Nacional QC AD ",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "1010",
+        "Rede": "Amil 400 Nacional QP AD",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "1011",
+        "Rede": " Amil 500 Nacional AD",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "1012",
+        "Rede": "BLUE 300 PLUS NACIONAL AD",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "1013",
+        "Rede": "BLUE 400 PLUS NACIONAL AD",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "1014",
+        "Rede": "BLUE 500 PLUS NACIONAL AD  ",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "1015",
+        "Rede": "BLUE 600 PLUS NACIONAL AD",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "1016",
+        "Rede": "LINCX - LT3 NACIONAL AD",
+        "Nivel": "Nível 800",
+        "Produto": "ONEHEALTH"
+    },
+    {
+        "Código": "1017",
+        "Rede": "MEDIAL 300 NACIONAL AD",
+        "Nivel": "Nível 300",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "1018",
+        "Rede": "MEDICUS (NACIONAL) AD",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "1019",
+        "Rede": "OPCOES (NACIONAL) AD",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "1020",
+        "Rede": "REDE 600 NACIONAL BLUE AD",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "1021",
+        "Rede": "REDE 600 NACIONAL MEDIAL AD",
+        "Nivel": "Nível 600 ",
+        "Produto": "AMIL"
+    },
+    {
+        "Código": "1034",
+        "Rede": "Amil IDG Básico",
+        "Nivel": "Nível 400",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "1035",
+        "Rede": "Amil IDG Intermediário",
+        "Nivel": "Nível 500",
+        "Produto": "AMIL PLANOS"
+    },
+    {
+        "Código": "1036",
+        "Rede": "Amil IDG Superior",
+        "Nivel": "Nível 700",
+        "Produto": "AMIL PLANOS"
+    }
+]
